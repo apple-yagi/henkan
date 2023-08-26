@@ -1,4 +1,4 @@
-import "./globals.css";
+import "modern-css-reset";
 import { KumaRegistry } from "@kuma-ui/next-plugin/registry";
 
 import type { Metadata } from "next";
